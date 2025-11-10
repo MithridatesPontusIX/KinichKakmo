@@ -30,7 +30,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 ### 3. Run the App
-python KinichKakmo.py
+```bash
+streamlit run KinichKakmo.py
 
 ### 4. Query examples
 from kinichkakmo import query
