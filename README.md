@@ -30,7 +30,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 ### 3. Run the App
-```bash
 streamlit run KinichKakmo.py
 
 ### 4. Query examples
